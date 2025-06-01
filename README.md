@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dylwill-dev
-- 👀 I’m interested in video game and web development
-- 🌱 I’m currently learning C# and .NET
+- 👀 I’m interested in video game development, web development, and software development.
+- 🌱 I’m currently learning C++ and .NET
 - 📫 Link tree: https://linktr.ee/DylBosch
 
 
